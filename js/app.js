@@ -2,7 +2,7 @@
 // 	alert("Button Click!");
 // });
 
-
+// test cm
 var displayWikiData = function() {
 	var searchString = $('#searchString').val();
 	var $linksElement = $('#links');
